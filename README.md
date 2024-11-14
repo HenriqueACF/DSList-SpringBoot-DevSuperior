@@ -4,7 +4,7 @@
 http://localhost:8080/games/
 
 ### Get Games By Id
-http://localhost:8080/games/{listId}/
+http://localhost:8080/games/{id}/
 
 ### Get Find All Category Games
 http://localhost:8080/lists/
